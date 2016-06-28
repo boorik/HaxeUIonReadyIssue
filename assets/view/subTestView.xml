@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Box width="100%" height="20%" style="backgroundColor:0x80FF80">
+	<Text id="subText" text="subText"/>
+</Box>
