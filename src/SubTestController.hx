@@ -17,7 +17,7 @@ class SubTestController extends haxe.ui.toolkit.core.XMLController
 	{
 		super.onReady();
 		trace("onReady");
-		this.subText.text = "onReady fired!";
+		this.subText.text = "onReady fired :)";
 	}
 	
 }
